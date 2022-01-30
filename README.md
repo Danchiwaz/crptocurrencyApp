@@ -1,3 +1,11 @@
+# crptocurrencyApp
+## Have created the app in Reactjs and Rapid api.
+###### Rapid used to get the realtime statistics about the cryptos.
+
+[click here to view the live app](https://cryptocurrencyinformativeapp.netlify.app/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
