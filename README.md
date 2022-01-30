@@ -1,2 +1,2 @@
 # crptocurrencyApp
-####This a cryptocurrency 
+[click here to view the live app](https://cryptocurrencyinformativeapp.netlify.app/)
